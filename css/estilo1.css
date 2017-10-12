@@ -1,0 +1,17 @@
+body {
+	background-color: green;
+}
+body h1{
+	color: white;
+}
+body input{
+	border: none;
+	background-color: blue;
+	color: gold;
+	height: 50px;
+	border-radius: 12px;
+}
+
+body input:hover {
+	cursor: pointer;
+}
